@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": 1777188752567,
+      "name": "Alibek Shomurodov",
+      "email": "shomurodovalibek5@gmail.com",
+      "password": "123123123",
+      "phone": "995548584",
+      "position": "Oqituvchi",
+      "company": "Maktab",
+      "address": "Xiva , Binokor",
+      "bio": "Maktab ustoz",
+      "createdAt": "2026-04-26T07:32:32.567Z",
+      "contacts": [
+        {
+          "id": 1777189827741,
+          "name": "Kimdir kimdirov",
+          "phone": "99 418 46 99",
+          "email": "umidbekshomurotov3@gmail.com",
+          "category": "client",
+          "note": "ncsidb bdyb yre",
+          "address": "Xiva , Binokor",
+          "createdAt": "2026-04-26T07:50:27.741Z"
+        }
+      ],
+      "groups": []
+    }
+  ]
+}
